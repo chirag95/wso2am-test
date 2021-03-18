@@ -3,7 +3,7 @@ entries:
   am-pattern-1:
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2021-03-18T12:18:08.07831833Z"
+    created: "2021-03-18T12:28:10.978331535Z"
     dependencies:
     - condition: wso2.deployment.dependencies.mysql
       name: mysql-am
@@ -15,10 +15,11 @@ entries:
       version: 1.2.0
     description: A Helm chart for the deployment of WSO2 API Manager Pattern 1 (HA
       All-In-One Deployment with Analytics)
-    digest: 468fea9b4886139e3716848eefec7a61e2e31995ed7b0afb6b58801ce6a6a43a
+    digest: bd9599c425248c43da2e042b199f8e424d99269e6b5fb2fb3faa3df0da6bcc5e
     icon: https://wso2.cachefly.net/wso2/sites/all/images/wso2logo.svg
     name: am-pattern-1
+    type: application
     urls:
     - https://chirag95.github.io/wso2am-test/am-pattern-1-3.2.0-3.tgz
     version: 3.2.0-3
-generated: "2021-03-18T12:18:08.06184283Z"
+generated: "2021-03-18T12:28:10.962498866Z"
