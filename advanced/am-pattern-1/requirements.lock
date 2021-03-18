@@ -1,0 +1,9 @@
+dependencies:
+- name: mysql-am
+  repository: https://helm.wso2.com
+  version: 3.2.0-3
+- name: nfs-server-provisioner
+  repository: https://kvaps.github.io/charts
+  version: 1.2.0
+digest: sha256:2a47277ba51873e86abb05b9c668b2c87af733cb92f62a4cd984065fe0c0d7d6
+generated: "2021-03-18T12:08:36.927872513Z"
